@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: #ddd;
+}
+
+.closet {
+    margin: auto;
+    width: 70dvw;
+    border: 5px solid #000;
+    border-radius: 3rem;
+    background-color: #222;
+    margin-top: 10rem;
+    padding: 2rem;
+}
+
+.closet__shoes {
+    background-color: #48e;
+    border-radius: 3rem;
+    padding: 0.75rem;
+    text-align: center;
+}
+
+.closet__shoes-item {
+    box-sizing: border-box;
+    text-decoration: underline;
+    margin: auto;
+    background-color: #1a2ca3;
+    border-radius: 20%;
+    width: fit-content;
+    padding: 3rem;
+    margin: 2rem auto;
+}
+
+.closet__shoes-item--black {
+    background-color: #000;
+}

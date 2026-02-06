@@ -1,0 +1,14 @@
+@import url("./components/bedroom.css");
+@import url("./components/livingroom.css");
+@import url("./components/kitchen.css");
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.house {
+    background-color: #212121;
+    box-sizing: border-box;
+    width: 100%;
+}

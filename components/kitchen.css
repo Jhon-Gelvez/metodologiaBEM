@@ -1,0 +1,28 @@
+/* bloque */
+.kitchen {
+    width: 30rem;
+    background-color: #cfcfcf;
+    margin: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+/* elemento */
+.kitchen__item {
+    color: rgb(0, 0, 0);
+    width: 6rem;
+    height: 6rem;
+    background-color: #25343F;
+    text-shadow: 0 0px 2px #fff ;
+    margin: 2rem auto 2rem auto;
+    text-align: center;
+    line-height: 6rem;
+    border-radius: 10%;
+
+}
+
+.house__kitchen__item--sm {
+    width: 2rem;
+    height: 2rem;
+    line-height: 2rem;
+
+}

@@ -1,0 +1,24 @@
+.bedroom {
+    width: 30rem;
+    background-color: #ff5e5e;
+    margin: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.bedroom__item {
+    width: 5rem;
+    height: 7rem;
+
+    background-color: #48e;
+    margin: 3rem auto 3rem auto;
+    text-align: center;
+    color: #E8E2DB;
+    font-weight: 900;
+    line-height: 7rem;
+
+}
+
+.house__bedroom__item--lg {
+    width: 13rem;
+}

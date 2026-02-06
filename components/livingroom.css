@@ -1,0 +1,24 @@
+.livingroom {
+    width: 30rem;
+    background-color: #5048c0;
+    margin: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.livingroom__item {
+    color: #15173d;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    background-color: #e491c9;
+    text-align: center;
+    line-height: 8rem;
+    margin: 2rem auto 2rem auto;
+    color: #360185;
+}
+
+.house__livingroom__item--red {
+    background-color: #DE1A58
+    ;
+}
